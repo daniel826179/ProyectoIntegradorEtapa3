@@ -1,0 +1,35 @@
+Archivos generados por Java
+
+*.class *.jar *.war *.ear *.nar
+
+Directorios de compilación
+
+bin/ build/ out/ target/
+
+Archivos de dependencias
+
+lib/ *.jar.download
+
+Configuraciones de IDE
+
+.idea/ *.iml .vscode/ .settings/ .classpath .project nbproject/ *.nbm
+
+Archivos de sistema operativo
+
+.DS_Store Thumbs.db
+
+Directorios de dependencias locales
+
+dependency-reduced-pom.xml pom.xml.versionsBackup
+
+Archivos de configuración sensibles
+
+*.properties *.env *.log
+
+Directorios de cache
+
+.cache/ *.cache
+
+MySQL Connector (si se incluye manualmente, pero se recomienda usar Maven/Gradle)
+
+mysql-connector-java*.jar
