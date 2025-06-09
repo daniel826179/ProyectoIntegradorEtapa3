@@ -193,7 +193,7 @@ Detalles de la licencia:
 
 
 
-Autor: [Tu Nombre o Alias]
+Autor: Daniel Esteban Castro Herrera
 
 
 
